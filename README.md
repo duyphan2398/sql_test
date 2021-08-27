@@ -1,11 +1,11 @@
 SQL TEST
 =======
-[Have a nice working day](https://www.youtube.com/watch?v=vDYP6AKw8bk).
+[Have a nice working day](https://www.youtube.com/watch?v=_nrm_vei5TE).
 
 Resources:
 -----------
 * database.sql: Data
-* new-password.csv: new password 
+* passwords.csv: new password 
 * answer1.sql: DoSth...with question 1 
 * answer2.sql: DoSth...with question 2
 * answer3.php: DoSth...with question 3
@@ -39,7 +39,7 @@ cafcdfa4-4e22-480e-9d4f-9a0f68da0ab2 | 40
 .....
 
 **Question 3:**.
-- With reading file function at PHP test. Please write your PHP code at answer3.php to read file new-password.csv and save it into the passwords table. Attention to use transaction,  array_chunk. 
+- With reading file function at PHP test. Please write your PHP code at answer3.php to read file passwords.csv and save it into the passwords table. Attention to use transaction,  array_chunk. 
 
 Keep your mind on the convention.
 Good Luck! 
